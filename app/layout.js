@@ -3,8 +3,8 @@ import './globals.css'
 
 
 export const metadata = {
-  title: 'Elkovi',
-  description: 'fiverr project IT company',
+  title: 'Marketiv',
+  description: 'Kovac ish könig',
 }
 
 export default function RootLayout({ children }) {
