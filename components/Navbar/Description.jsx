@@ -27,6 +27,7 @@ const Description = () => {
             <span>Nemi het en grosse</span>
             <span>Fico au :)</span>
             <span>Tiger ish Tamil</span>
+            <span>Ante liebt Pouletflügeli</span>
           </Trail>
         </div>
       </div>
